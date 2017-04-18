@@ -1,7 +1,7 @@
 #include<stdio.h>
 /*
 Ejemplo: Una función que recibe parámetros de tipo void(cualquier tipo).
-Luego internamente los trata como char[], solo a modo de ejemolo
+Luego internamente los trata como char[], solo a modo de ejemplo
 
 */
 
